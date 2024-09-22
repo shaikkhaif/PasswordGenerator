@@ -1,5 +1,5 @@
 from tkinter import *
-import pyperclip
+
 import random
 
 root = Tk()
